@@ -9,7 +9,10 @@ Chương 3: Bài 1, 2, 3, 4, 5, 6, 7, 8
 
 ## Cách chạy
 ```
-dotnet run --project Buoi01_DeQuy
+bash
+dotnet run --project Buoi01_DeQuy/<Ten_Chuong>/<Ten_Bai>
+
+Ví dụ: dotnet run --project Buoi01_DeQuy/Chuong1_TongQuan/C1_Bai1
 ```
 
 ## Kết quả chạy
