@@ -1,4 +1,4 @@
-//Chương 1 - Bài 1: Nhập ngẫu nhiên 1000 số tự nhiên và lưu nó trong mảng. Sau đó tìm trong mảng SLN, SNN
+﻿//Chương 1 - Bài 1: Nhập ngẫu nhiên 1000 số tự nhiên và lưu nó trong mảng. Sau đó tìm trong mảng SLN, SNN
 using System;
 using System.Text;
 class SoTuNhien { 
