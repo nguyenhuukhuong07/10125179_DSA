@@ -5,7 +5,7 @@ Họ tên: Nguyễn Hữu Khương · MSV: 10125179
 ## Bài đã làm
 Chương 1: Bài 1, 2, 3, 4, 5\
 Chương 2: Bài 1, 2, 3, 4, 5, 6\
-Chương 3: Bài 1, 2, 3, 4, 5, 6, 7, 8\
+Chương 3: Bài 1, 2, 3, 4, 5, 6, 7, 8
 
 ## Cách chạy
 ```
